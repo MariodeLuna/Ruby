@@ -1,0 +1,5 @@
+class Nave
+	
+
+
+end
